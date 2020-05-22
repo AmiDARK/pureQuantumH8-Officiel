@@ -25,4 +25,5 @@ Voici les termes simplifiés :
 Source : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
 
 La licence complète est présente dans le fichier Licence.txt
-Licence Complète disponible ici : https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fr
+
+Licence Complète disponible aussi ici : https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fr
