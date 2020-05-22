@@ -21,6 +21,8 @@ Voici les termes simplifiés :
 * Pas d’Utilisation Commerciale — Vous n'êtes pas autorisé à faire un usage commercial de cette Oeuvre, tout ou partie du matériel la composant.
 * Pas de modifications — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'Oeuvre originale, vous n'êtes pas autorisé à distribuer ou mettre à disposition l'Oeuvre modifiée.
 * Pas de restrictions complémentaires — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
+
 Source : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
+
 La licence complète est présente dans le fichier Licence.txt
 Licence Complète disponible ici : https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fr
