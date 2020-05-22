@@ -1,0 +1,14 @@
+{
+	"capabilities":{
+		"forceVersion":"75.0.3770.90",
+		"allowInsecuresCertificates":"true",
+		"argument":"--window-size=1024,768",
+		"setHeadless":"false",
+		"ACCEPT_SSL_CERTS":"true",
+		"chromePrefs":"chromeSetup.json"
+	},
+	"chromePrefs":{
+		"profile.default_content_settings.popups":"0",
+		"download.default_directory":"/downloads/"
+	}
+}

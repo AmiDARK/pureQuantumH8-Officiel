@@ -1,0 +1,13 @@
+{
+	"capabilities":{
+		"platformName"         : "Android",
+		"platformVersion"      : "8.0",
+		"deviceName"           : "Huawei P8 Lite (2017)",
+		"automationName"       : "UiAutomator2",
+		"app"                  : "AndroidAPK/test.apk",
+		"noReset"              : "false",
+		"fullReset"            : "true",
+		"appPackage"           : "calculator.innovit.com.calculatrice",
+		"autoGrantPermissions" : "true"
+	}
+}

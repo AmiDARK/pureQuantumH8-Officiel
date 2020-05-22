@@ -1,0 +1,2 @@
+Ce dossier contient des fichiers temporaires.
+Notamment pour la mise à jour des "pilotes spécifiques".

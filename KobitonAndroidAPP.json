@@ -1,0 +1,14 @@
+{
+	"capabilities":{
+		"sessionName"          : "pureQuantumH8 Automation Test",
+		"sessionDescription"   : "pureQuantum H8 test KOBITON",
+		"deviceOrientation"    : "portrait",
+		"captureScreenshots"   : "false",
+		"app"                  : "kobiton-store:36008",
+		"deviceGroup"          : "KOBITON",
+		"deviceName"           : "YOGA Tab 3 Plus",
+		"platformVersion"      : "7.1.1",
+		"platformName"         : "Android",
+		"deviceServer"         : "https://pureQuantumH8:61fcf1f8-e147-40e3-8dcf-8cbce9a9a34e@api.kobiton.com/wd/hub"
+	}
+}

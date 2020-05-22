@@ -1,0 +1,11 @@
+{
+	"deviceName":"Huawei P8 Lite 2017",
+	"deviceUDID":"9DC7N17713005095",
+	"deviceOS":"Android",
+	"deviceOSVersion":"8.0.0",
+	"deviceAVDFile":"",
+	"capabilities":{
+		"allowInsecuresCertificates":"true",
+		"argument":"--window-size=1024,768"
+	}
+}

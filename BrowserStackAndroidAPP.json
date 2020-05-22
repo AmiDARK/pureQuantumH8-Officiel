@@ -1,0 +1,11 @@
+{
+	"capabilities":{
+		"os_version"           : "7.0",
+		"device"               : "Samsung Galaxy S8 Plus",
+		"browserstack.user"    : "fredericcordier1",
+		"browserstack.key"     : "pQyvpQyosWCABWGXqd3k",
+		"app"                  : "bs://df68a536881931420560f3f071cdc52d219db3d1",
+		"build"                : "1.0.0",
+		"name"                 : "Test BrowserStack Trial with pureQuantumH8 : Calculate 5+3=8"
+	}
+}

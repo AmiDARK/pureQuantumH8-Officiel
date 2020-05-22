@@ -1,0 +1,9 @@
+{
+	"capabilities":{
+		"deviceName"			: "Motorola_Moto_G6_free",
+		"deviceServer"          : "https://eu1.appium.testobject.com/wd/hub",
+		"testobject_api_key"	: "92F4C532A1E74BB88F97EC7E4508CFB0",
+		"build"                 : "build 1.0.0",
+		"name"                  : "Test Sauce Labs Trial with pureQuantumH8 : Calculate 5+3=8"
+	}
+}

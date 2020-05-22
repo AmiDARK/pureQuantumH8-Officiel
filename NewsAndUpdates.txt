@@ -1,0 +1,75 @@
+
+To Do :
+
+- Mettre les Drivers dans un dossier %USERPATH%/pureQuantumH8/drivers/
+
+- Create a TestSteoState structure that may contains datas like : Status (Untested, Ok, Fail, Skip), Pointer to ErrorObject, Pointer to Logs object
+
+- Create an Error Structure Class that may contain all the errors data like URL, pureElement(s), pureDriver, screenshot Path,
+                                                                       Scenario, Test Step, Description, Action on the pureElement(s) object, etc...
+
+- Create a logData class containing for each logs : List<String>URLs (or File path), List<String>Logs, List<String>LogLevel (for each Logs)
+
+- Create a "Cache buffer" that pre-load all methods available in the driver for a faster pureCallMethod run.
+
+/** **********************************************************************************************
+[2019.08.05] @23:44
+
+[Add]       pureDrivers Added many AndroidDrivers calls.
+
+
+/** **********************************************************************************************
+[2019.07.24] @22:37
+
+[Add]       pureDrivers Added many AndroidDrivers calls.
+
+
+/** **********************************************************************************************
+[2019.07.11] @23:16
+
+[Add]       sourceDrivers.myBrowserStackAndroidDriver to add support for BrowserStack Android Application testing.
+[Update]    pureQuantumH8.pureDrivers to add support for myBrowserStackAndroidDriver application testing.
+[Add]       BrowserStackAndroidAPP.java sample
+
+
+/** **********************************************************************************************
+[2019.07.11] @00:24 6th update
+
+[Update]       sourceDrivers.myAndroidriver updated and now setup/quit correctly
+
+
+/** **********************************************************************************************
+[2019.07.08] @00:10 5th update
+
+[Update]       pureDrivers.waitUntilDriversAreReady(  pureDriverDetails[] driverDetails ) to check for multiple drivers to be ready (list)
+[Update]       sourceDrivers.driverTemplate to contain all the methods that are currently considered as critical and mandatory in a driver.
+
+
+/** **********************************************************************************************
+[2019.07.06] @23:44 4th update
+
+[Update]       pureDrivers.isPageUpdated() and page datas are fixed.
+
+/** **********************************************************************************************
+[2019.07.05-06] @08:10 3rd update
+
+[Update]       minor updates
+
+
+/** **********************************************************************************************
+[2019.07.03-04] @23:47 2nd update
+
+[Update]       pureDrivers methods call for direct original Driver methods to provide better error message on "NoSuchMethodException" Exception/Error
+
+
+/** **********************************************************************************************
+[2019.07.03] @00:17 1st update
+
+[Update]       Reinsert all the pureDrivers methods in the new pureDrivers version of this class.
+[Update]       Reinsert all the pureElement methods in the new pureElement version of this class.
+[Update]       Reinsert all the pureElements methods in the new pureElements version of this class.
+[Update]       pureElement.refresh() method updated to use dynamic wait detection.
+
+
+/** **********************************************************************************************
+[2019.07.02] @19:13 Initial push

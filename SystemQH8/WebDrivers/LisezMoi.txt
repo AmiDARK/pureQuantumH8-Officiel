@@ -1,0 +1,2 @@
+Chaque pilote qui est développé pour être intégré au "pilote unifié" doit posséer une méthode de téléchargement et mise à jour.
+Ainsi, nul besoin de copier un quelconque "pilote" ici. Car la méthode d'initialisation réalisera le travail de téléchargement et d'installation du pilote spécifique.
