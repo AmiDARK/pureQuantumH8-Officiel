@@ -1,11 +1,11 @@
 # pureQuantumH8-Officiel - A propos de :
 pureQuantumH8 est un outil développé pour simplifier l'automatisation de tests multi-plateformes.
 Il n'a pas été développé dans un but "commercial" mais plutôt dans une recherche singulière et éducationnelle. C'est la première raison pour laquelle la licence Creative Commons BY-NC-ND a été choisie pour l'ouverture de son code source (Pas d'utilisation commerciale).
-L'auteur (moi même) ne saurait être tenu pour responsable d'un quelconque problème pourvant survenir lors de son utilisation. Ce produit n'est partagé en code source que pour les objectifs suivants :
+L'auteur (moi même) ne saurait être tenu pour responsable d'un quelconque problème pouvant survenir lors de son utilisation. Ce produit n'est partagé en code source que pour les objectifs suivants :
 
 # pureQuantumH8-Officiel - Objectif du projet :
 L'objectif de cet outil est principalement de démontrer qu'il est possible, directement en JAVA, d'utiliser un approche différente des approches classiques pour créer un système de "pilote unifié" qui puisse être un "pont" entre les divers pilotes (WebDrivers) logiciels permettant la prise de contrôle des périphériques et outils de tests.
-Ce "pilote unifié" n'étant en définitive, pas plus compliqué à utiliser que les pilotes classiques tels que l'AndroidDriver, l'iOSDriver, le ChromeDriver, le SafariDriver (Gecko), l'EdgeDriver, etc.
+Ce "pilote unifié" n'étant en définitive, pas plus compliqué à utiliser que les pilotes classiques tels que l'AndroidDriver, l'iOSDriver, le ChromeDriver, le SafariDriver, le Firefox driver (Gecko), l'EdgeDriver, etc.
 De plus, il permet aussi d'utiliser en toute transparence, les fermes de devices en les intégrant au "pilote unifié" de la même manière que les pilotes de tests en local.
 De plus, son architecture permet l'intégration facile de nouveaux pilotes dans le "pilote unifié".
 Le choix de licence Creative Commons BY-NC-ND a été choisi en ce sens pour le terme "Attribution". Cette approche originale est inédite (non trouvée en code source ouvert ou recherches sur le net) et est donc clairement une création originale. Le terme d'attribution est là pour m'assurer que personne ne s'approprie cette technique et technologie.
